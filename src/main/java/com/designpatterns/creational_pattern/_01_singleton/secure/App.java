@@ -1,6 +1,5 @@
-package com.designpatterns.singleton.secure;
+package com.designpatterns.creational_pattern._01_singleton.secure;
 
-import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 public class App {

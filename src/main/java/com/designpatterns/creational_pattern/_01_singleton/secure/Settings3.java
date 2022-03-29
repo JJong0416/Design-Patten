@@ -1,4 +1,4 @@
-package com.designpatterns.singleton.secure;
+package com.designpatterns.creational_pattern._01_singleton.secure;
 
 public enum Settings3  {
 

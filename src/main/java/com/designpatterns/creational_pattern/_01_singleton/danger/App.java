@@ -1,4 +1,4 @@
-package com.designpatterns.singleton.danger;
+package com.designpatterns.creational_pattern._01_singleton.danger;
 
 public class App {
     public static void main(String[] args) {

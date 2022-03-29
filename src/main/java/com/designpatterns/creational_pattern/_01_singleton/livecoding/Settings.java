@@ -1,4 +1,4 @@
-package com.designpatterns.singleton.livecoding;
+package com.designpatterns.creational_pattern._01_singleton.livecoding;
 
 public class Settings {
 
